@@ -7,8 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class Item {
-	//id
+public class Item {//id
 	private Integer id;
 	//名字
 	private String name;
