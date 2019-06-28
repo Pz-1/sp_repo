@@ -13,5 +13,6 @@ public class Item {//id
 	//商品名称
 	private String name;
 	//2
+	//djnd
 	private Integer number;
 }
