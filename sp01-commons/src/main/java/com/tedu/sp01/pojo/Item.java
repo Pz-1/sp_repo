@@ -12,6 +12,6 @@ public class Item {//id
 	private Integer id;
 	//商品名称
 	private String name;
-	//21354351561
+	//2
 	private Integer number;
 }
